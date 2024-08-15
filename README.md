@@ -4,5 +4,5 @@ Here is the link for WebGL version of the game: https://mrtractorwheel.github.io
 
 
 For a better game experience;                                                                                                                                                                                                              
-  Download the folder named Super_Tyler_PC_Port from https://drive.google.com/drive/folders/1on4HLD-gyybXqxS1XcpzZV6tbM13bSaj?usp=sharing
+  Download the folder named Super_Tyler_PC_Port or use download all option from https://drive.google.com/drive/folders/1on4HLD-gyybXqxS1XcpzZV6tbM13bSaj?usp=sharing
     then double click SuperTyler.exe
