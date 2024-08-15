@@ -132,7 +132,7 @@ public class PlayerMovement : MonoBehaviour
     void Die(){
         if(rigbody.IsTouchingLayers(LayerMask.GetMask("Enemy", "Hazards"))){
             isAlive = false;
-            animator.SetTrigger("DieMF");
+            animator.SetTrigger("Die");
             FindObjectOfType<VolumeSettings>().playDeathSFX();
             deathEffect.PlayDeathEffect(gameObject);
             rigbody.velocity = Vector2.zero;
